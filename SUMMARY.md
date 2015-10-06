@@ -4,5 +4,5 @@
 * [Home](home.md)
 * [Teachers](teachers.md)
    * [Curriculum Tools](curriculum.md)
-   * Instruction and Feedback
+   * [Instruction and Feedback](feedback.md)
 
