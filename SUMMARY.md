@@ -21,7 +21,7 @@
 
 * Projects
   * Introduction
-  * Creating Projects
+  * [Creating Projects](projects-create.md)
   * Assigning Projects
   * Project Time
   * Giving feedback on projects
