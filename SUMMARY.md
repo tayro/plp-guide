@@ -6,4 +6,5 @@
    * [Instruction and Feedback](feedback.md)
 * [Students](students.md)
 * Projects
+* Focus Areas
 
