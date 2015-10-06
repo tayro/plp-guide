@@ -2,5 +2,4 @@
 
 * Home
 * Teachers
-* Curriculum Tools
 
