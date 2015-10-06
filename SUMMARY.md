@@ -1,6 +1,6 @@
 # Summary
 
 * Home
-* Teachers
+* [Teachers](teachers.md)
    * Curriculum Tools
 
