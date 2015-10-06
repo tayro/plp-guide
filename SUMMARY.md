@@ -9,7 +9,7 @@
     * [Creating Projects](projects-create.md)
     * Creating Focus Areas
    * [Instruction and Feedback](feedback.md)
-    * Assigning Projects
+    * [Assigning Projects](projects-assign.md)
     * Understanding student performance
     * Grading Projects
 
