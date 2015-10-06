@@ -1,6 +1,7 @@
 # Summary
 
 * [Introduction](README.md)
+* [FAQ](faq.md)
 * [Teachers](teachers.md)
    * [Curriculum Tools](curriculum.md)
     * Using Summit's Curriculum
