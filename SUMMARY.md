@@ -19,10 +19,9 @@
   * Project-based learning
   * Mastery-based progression
 
-* Projects
-  * Introduction
+* [Projects](projects/README.md)
   * [Creating Projects](projects-create.md)
-  * Assigning Projects
+  * [Assigning Projects](projects/assign.md)
   * Project Time
   * Giving feedback on projects
 
