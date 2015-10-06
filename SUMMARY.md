@@ -14,5 +14,6 @@
 
 * [Students](students.md)
 * Projects
+  * Test
   * [Creating Projects](projects-create.md)
 * Focus Areas
