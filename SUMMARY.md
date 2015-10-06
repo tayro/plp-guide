@@ -13,7 +13,15 @@
     * Grading Projects
 
 * [Students](students.md)
+  * Self-directed learning
+  * Project-based learning
+  * Mastery-based progression
+
 * Projects
-  * Test
-  * [Creating Projects](projects-create.md)
+  * Introduction
+  * Creating Projects
+  * Assigning Projects
+  * Project Time
+  * Giving feedback on projects
+
 * Focus Areas
