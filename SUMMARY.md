@@ -12,6 +12,7 @@
     * [Assigning Projects](projects-assign.md)
     * Understanding student performance
     * Grading Projects
+    * [Assign 2](projects-assign-proxy.md)
 
 * [Students](students.md)
   * Self-directed learning
