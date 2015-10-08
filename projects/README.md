@@ -1,5 +1,4 @@
 # Projects
-<!-- toc -->
 1. Overview of Project-Based Learning at Summit
 2. Creating Projects
 3. Assigning Projects
