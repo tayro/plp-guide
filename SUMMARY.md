@@ -23,7 +23,7 @@
     * Understanding student performance data
     * Acting As a student
     * Project Time
-      * [Assigning Projects](projects-assign.md)
+      * [Assigning Projects](projects/assign.md)
       * Project Feedback and Scoring
     * Personal Learning Time
       * Approving Content Assessments
