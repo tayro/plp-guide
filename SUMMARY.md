@@ -4,6 +4,7 @@
 * [Glossary](GLOSSARY.md)
 * [FAQ](faq.md)
 * [Teachers](teachers.md)
+  * Substitute Teachers
    * [Curriculum Tools](curriculum.md)
     * Using Summit's Curriculum
     * Creating Courses
