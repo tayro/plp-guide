@@ -1,7 +1,6 @@
 # Summary
-
+* [Glossary](GLOSSARY.md)
 * [Overview](README.md)
-  * [Glossary](GLOSSARY.md)
   * A day at Summit
   * Teacher Mindsets
   * [Project-based Learning](projects/README.md)
